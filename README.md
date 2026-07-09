@@ -110,7 +110,8 @@ mindset:     "Find the root cause — don't just patch the symptom."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maawakhalid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=maawakhalid&theme=tokyonight&row=1&column=7
+" alt="trophies" />
 
 </div>
 
