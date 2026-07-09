@@ -1,16 +1,4 @@
-<!--
-  ============================================================
-  GITHUB PROFILE README  —  Maawa
-  ------------------------------------------------------------
-  BEFORE YOU COMMIT:
-  1. Replace every "maawakhalid" with your real GitHub username.
-  2. Replace the LinkedIn/email links at the bottom with yours.
-  3. Put this file in a repo named EXACTLY your username
-     (e.g. github.com/maawa/maawa) so it shows on your profile.
-  4. For the snake animation, add the GitHub Action described
-     at the very bottom of this file (in the HTML comment).
-  ============================================================
--->
+
 
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
@@ -101,17 +89,6 @@ mindset:     "Find the root cause — don't just patch the symptom."
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=maawakhalid&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=maawakhalid&theme=tokyonight&row=1&column=7
-" alt="trophies" />
 
 </div>
 
