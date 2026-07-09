@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi, I'm Maawa 👋
+IT Support & Infrastructure specialist based in Toronto.
 
+- 🔧 Working with: Windows, Azure (AZ-104 in progress), Networking, M365/Entra
+- 🌱 Currently: contributing to open source and building automation scripts
+- 📫 Reach me: https://www.linkedin.com/in/maawakhalid/
 <!--
 **maawakhalid/maawakhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
